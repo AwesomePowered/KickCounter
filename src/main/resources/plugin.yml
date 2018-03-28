@@ -1,0 +1,6 @@
+name: KickCounter
+version: ${project.version}
+main: net.poweredbyawesome.kickcounter.KickCounter
+authors: [LaxWasHere]
+commands:
+  kickcounter:
